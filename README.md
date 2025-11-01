@@ -1,5 +1,7 @@
 🎓 Student Exam Score Prediction Using Machine Learning
 
+https://student-score-prediction-1xp4.onrender.com (click heare)
+
 A simple Machine Learning web application built with Flask, HTML/CSS, and scikit-learn, which predicts a student’s final exam score based on their study habits, attendance, and other factors.
 
 🚀 Project Overview
